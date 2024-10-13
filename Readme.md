@@ -7,7 +7,7 @@ The Leather Hoard website is a website for selling leather products. This projec
 
 The aforementioned improvements will make it easier for visitors to browse the website and place online orders for new products. Additionally, it will aid the learners in understanding the fundamental components of an e-commerce website.
 
-Visit the website: [Leather Hoard](https://leatherhoard.netlify.app/)
+Visit the website: [Leather Hoard](https://dhami2004.github.io/LeatherHoard/)
 
 # <h3> 📌 Tech Stack</h3>
 
@@ -129,8 +129,7 @@ You can create a <a href="https://github.com/KiranAminPanjwani/LeatherHoard/issu
 
 <h3 align=center> Project Admin ❤️ </h3>
 
-© 2022 Kiran Amin Panjwani and contributors\
-This project is licensed under the [**MIT license**](https://github.com/KiranAminPanjwani/LeatherHoard/blob/main/LICENSE).
+© 2022 Subham Singh\
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
@@ -138,6 +137,6 @@ This project is licensed under the [**MIT license**](https://github.com/KiranAmi
 <p align="center">
 <table align="center">
   <tbody><tr>
-     <td align="center"><a href="https://github.com/KiranAminPanjwani"><img alt="" src="https://user-images.githubusercontent.com/90326051/192037521-3d5fa306-f642-4ae1-a53c-2054f40e2975.png" width="125px;"><br><sub><b> Kiran Panjwani </b></sub></a><br></td> </a></td>
+     <td align="center"><a href="https://github.com/Dhami2004"><br><sub><b> Subham Singh </b></sub></a><br></td> </a></td>
 </tbody></table>
 
